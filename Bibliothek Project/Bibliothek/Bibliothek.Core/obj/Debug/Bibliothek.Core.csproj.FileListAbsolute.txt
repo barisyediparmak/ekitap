@@ -1,0 +1,25 @@
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Core.dll.config
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Core.dll
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Core.pdb
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Utility.dll
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.dll
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Utility.pdb
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.xml
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\obj\Debug\Bibliothek.Core.csprojResolveAssemblyReference.cache
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\obj\Debug\Bibliothek.Core.csproj.CoreCompileInputs.cache
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\obj\Debug\Bibliothek.Core.dll
+C:\Users\bgokk\source\repos\Bibliothek\Bibliothek.Core\obj\Debug\Bibliothek.Core.pdb
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Core.dll.config
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Core.dll
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Core.pdb
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Utility.dll
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.dll
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\Bibliothek.Utility.pdb
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.xml
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\obj\Debug\Bibliothek.Core.csprojResolveAssemblyReference.cache
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\obj\Debug\Bibliothek.Core.dll
+D:\Projelerim\Bibliothek Project\Bibliothek\Bibliothek.Core\obj\Debug\Bibliothek.Core.pdb
