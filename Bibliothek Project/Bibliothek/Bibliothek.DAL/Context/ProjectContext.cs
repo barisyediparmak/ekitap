@@ -18,7 +18,6 @@ namespace Bibliothek.DAL.Context
     {
         public ProjectContext()
         {
-            //Database.Connection.ConnectionString = "Server=LAPTOP-5NLQV687;Database=Bibliothek;Integrated Security=true;";
             Database.Connection.ConnectionString = "Server=DESKTOP-KPLSAQM;Database=Bibliothek;integrated security=true;";
         }
 
